@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">recyclerview</string>
+    <string-array name="note_title_text">
+        <item>購物車</item>
+        <item>衣服</item>
+    </string-array>
+    <string-array name="note_detail_text">
+        <item>購買物品</item>
+        <item>長袖、短袖、長褲</item>
+
+    </string-array>
+</resources>
